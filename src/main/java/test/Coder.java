@@ -9,6 +9,7 @@ import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
 /**
+ * http://snowolf.iteye.com/blog/382422
  * 基础加密组件
  *
  * @author 梁栋
